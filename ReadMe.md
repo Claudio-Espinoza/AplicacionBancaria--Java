@@ -8,6 +8,6 @@ _Esta aplicacion simula la de un banco comvencional digase de banco estado, sant
 _Fue creado con el propocito de ser entregado como proyecto final del ramo "Programacion orientada a objeto", el cual fue aprovada._
 
 
-### Pre-requisitos 📋
+### Caracteristicas 📋
 
-_Java standar & jdk ademas de cualquier aplicacion que te permita usar la base de datos_
+_Contiene progamacion orientada a objetos, cuenta con una base de datos implementada en java y una interface hecho con el asistente de netbeans con algunas implementaciones que son propia del interfaces hechas a mano._
