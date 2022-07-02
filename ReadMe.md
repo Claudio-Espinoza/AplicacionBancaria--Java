@@ -5,7 +5,7 @@ _Esta aplicacion simula la de un banco convencional digase de banco estado, sant
 
 ## Motivo de creacion 🚀
 
-_Fue creado con el propocito de ser entregado como proyecto final del ramo "Programacion orientada a objeto", el cual fue aprobada._
+_Fue creado con el propocito de ser entregado como proyecto final del ramo "Programacion orientada a objeto", El cual fue aprobado._
 
 
 ### Caracteristicas 📋
